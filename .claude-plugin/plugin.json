@@ -1,0 +1,18 @@
+{
+  "name": "go-microservice-guardrails",
+  "description": "Go 微服务架构规范 Skill，覆盖仓库分层、共享契约、服务边界、服务间鉴权、最小权限、可观测性、部署与测试。",
+  "version": "0.1.0",
+  "author": {
+    "name": "go-microservice-guardrails maintainers"
+  },
+  "homepage": "https://github.com/0xBB2B/go-microservice-guardrails",
+  "repository": "https://github.com/0xBB2B/go-microservice-guardrails",
+  "keywords": [
+    "go",
+    "microservice",
+    "grpc",
+    "protobuf",
+    "architecture",
+    "skill"
+  ]
+}

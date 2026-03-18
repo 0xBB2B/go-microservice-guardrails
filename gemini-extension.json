@@ -1,0 +1,6 @@
+{
+  "name": "go-microservice-guardrails",
+  "description": "Go 微服务架构规范 Skill，帮助 Gemini CLI 在生成、整改和评审 Go 微服务项目时遵循统一边界。",
+  "version": "0.1.0",
+  "contextFileName": "AGENTS.md"
+}

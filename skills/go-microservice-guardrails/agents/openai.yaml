@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go 微服务架构规范"
+  short_description: "生成、整改、评审 Go 微服务架构与代码时加载的规范约束"
+  default_prompt: "使用 $go-microservice-guardrails 按规范生成或评审 Go 微服务实现。"

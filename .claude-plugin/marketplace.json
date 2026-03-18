@@ -1,0 +1,18 @@
+{
+  "name": "go-microservice-guardrails",
+  "owner": {
+    "name": "go-microservice-guardrails maintainers"
+  },
+  "metadata": {
+    "description": "面向 Go 微服务研发的架构规范 Skill 仓库，支持 Claude Code、Codex 和 Gemini CLI。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "go-microservice-guardrails",
+      "source": "./",
+      "skills": "./",
+      "description": "为 Go 微服务研发提供目录边界、契约治理、服务间鉴权、数据最小权限、可观测性与部署测试约束。"
+    }
+  ]
+}
